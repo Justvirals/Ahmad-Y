@@ -1,54 +1,65 @@
 ## Hey 👋, ich bin Ahmad Yakti Baslhlo!
-<a href='https://www.linkedin.com/in/DEIN-LINK/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/DEIN-HANDLE/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://github.com/DEIN-USERNAME/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/github/github.svg" height='18px'/></a>
-
-
-Ich bin **Junior PHP/Symfony**-Entwickler mit E-Commerce-Fokus (erste Schritte in **Shopware-Plugin**-Entwicklung, **Doctrine/MySQL**).  
-Ich baue saubere, wartbare Backends und kleine, praxisnahe UIs. Lernbereit, hands-on und teamorientiert.
-<br/>
+<a href='https://www.linkedin.com/in/DEIN-LINK/'><img align='left' alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="18"/></a>
+<a href='https://github.com/DEIN-USERNAME/'><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" height="18"/></a>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+<table>
+  <tr>
+    <td>
+      Ich bin <strong>Junior PHP/Symfony Entwickler</strong> mit E-Commerce-Fokus ⚡.<br/>
+      Erste Schritte in <strong>Shopware-Plugin-Entwicklung</strong>, dazu <strong>Doctrine/MySQL</strong>, REST-APIs und ein bisschen Frontend.<br/>
+      Ich liebe es, sauberen Code zu schreiben, Neues zu lernen und im Team Ideen zum Leben zu bringen. 🚀
+    </td>
+    <td align="right" width="380">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 &nbsp; Aktuell arbeite ich an einem **Shopware-Produktdaten-Plugin** (erste Plugin-Schritte).
-- 🤝 &nbsp; Ich möchte an **Symfony-Bundles / Shopware-Plugins** mitwirken.
-- 🌱 &nbsp; Ich lerne **Docker**, **Symfony Messenger** (Queues/Background Jobs) und Marketplace/ERP-**APIs**.
-- 👨🏻‍💻 &nbsp; Meine Projekte findest du auf [GitHub](https://github.com/DEIN-USERNAME?tab=repositories).
-- 💬 &nbsp; Frag mich zu **PHP 8**, **Symfony**, **Doctrine**, **MySQL**, **REST-APIs** und **Twig**.
-- 📫 &nbsp; Kontakt: [LinkedIn](https://www.linkedin.com/in/DEIN-LINK/) · `DEINE.MAIL@EXAMPLE.COM`
-- 🧩 &nbsp; **Umschulung Fachinformatiker Anwendungsentwicklung bei GFN, seit 05/2023 (durchgehend, bis heute).**
-- 🧪 &nbsp; **Praktikum:** BFI Software GmbH (10/2024–07/2025) – Symfony, Git/GitHub, HTML/CSS/JS, kurze **Scrum**-Sprints.
+---
 
-<br>
+### 🧐 Mehr über mich:
+- 🔭 Arbeite aktuell an einem **Shopware-Plugin** (Produktdaten-Erweiterung)  
+- 🤝 Suche Austausch & Beiträge zu **Symfony Bundles / Shopware Plugins**  
+- 🌱 Lerne gerade **Docker** & **Symfony Messenger (Queues/Jobs)**  
+- 👨🏻‍💻 Meine Projekte findest du auf [GitHub](https://github.com/DEIN-USERNAME?tab=repositories)  
+- 💬 Frag mich zu **PHP 8, Symfony, Doctrine, MySQL, Twig, REST-APIs**  
+- 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/DEIN-LINK/) · `ahmad.yakti.baslhlo@gmail.com`  
+- 🧩 **Umschulung Fachinformatiker Anwendungsentwicklung** @ GFN GmbH (05/2023 – 07/2025)  
+- 🧪 **Praktikum** @ BFI Software GmbH (10/2024 – 07/2025) – Symfony, Git/GitHub, HTML/CSS/JS, kurze Scrum-Sprints  
 
-### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
-<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/php/php.svg"></a>
-<a href="https://symfony.com/" target="_blank"><img align="left" alt="Symfony" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/frameworks/square/symfony/symfony.svg"></a>
-<a href="https://www.shopware.com/" target="_blank"><img align="left" alt="Shopware" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/frameworks/square/shopware/shopware.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+---
 
-<br>
-<br>
+### 🌍 Sprachen:
+- 🇩🇪 Deutsch: C1
+- 🇬🇧 Englisch: B2
+- 🇸🇦 Arabisch: Muttersprache  
+---
 
-### 📊 Github Stats
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars&custom_title=Meine%20GitHub%20Aktivit%C3%A4t%20%E2%80%93%20PHP%2FSymfony)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&langs_count=6&hide=java,kotlin,typescript,scss,less,scss,c%2B%2B,c&custom_title=Top%20Sprachen%20(Repo)%20%E2%80%93%20PHP%2FHTML%2FCSS%2FPython)
+### 🔨 Tech-Stack & Tools:
+<p align="center">
+  <!-- Programmiersprachen -->
+  <img alt="PHP" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  <img alt="Symfony" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg"/>
+  <img alt="Shopware" height="42px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/shopware.svg"/>
+  <img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img alt="Doctrine" height="42px" src="https://avatars.githubusercontent.com/u/2855570?s=200&v=4"/> <!-- kein offizielles Icon, nur Logo -->
+  <img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="HTML5" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+</p>
 
-</a>
+---
 
-<br>
+### 🛠️ Meine Projekte
+- 🚧 Hier kommen später meine Projekte (Symfony, Shopware, PHP, u.a.)  
+- 📌 Du kannst eigene Badges, Logos oder Links hinzufügen.
+---
 
-### 🛠️ My Projects
-<a href="https://github.com/DEIN-USERNAME/shopware-product-data-module" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/DEIN-USERNAME/todo-webapp-php" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/DEIN-USERNAME/symfony-playground" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/DEIN-USERNAME/doctrine-examples" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/DEIN-USERNAME/rest-api-demos" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/DEIN-USERNAME/docker-dev-setup" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+### ♟️ Fun & Hobbies
+- ♟️ **Schach**: Strategie, Geduld & Kreativität – wie im Code.  
+-     Mein Motto: *„Think like a chess player – plan ahead, aber flexibel bleiben.“*
+- ☕ Kaffee + Code = Perfekter Tag.  
