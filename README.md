@@ -24,7 +24,7 @@
 - 🌱 Lerne gerade **Docker** & **Symfony Messenger (Queues/Jobs)**  
 - 👨🏻‍💻 Meine Projekte findest du auf [GitHub](https://github.com/DEIN-USERNAME?tab=repositories)  
 - 💬 Frag mich zu **PHP 8, Symfony, Doctrine, MySQL, Twig, REST-APIs**  
-- 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/DEIN-LINK/) · `ahmad.yakti.baslhlo@gmail.com`  
+- 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/DEIN-LINK/) · `ybaslihlo@gmail.com`  
 - 🧩 **Umschulung Fachinformatiker Anwendungsentwicklung** @ GFN GmbH (05/2023 – 07/2025)  
 - 🧪 **Praktikum** @ BFI Software GmbH (10/2024 – 07/2025) – Symfony, Git/GitHub, HTML/CSS/JS, kurze Scrum-Sprints  
 
