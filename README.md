@@ -1,4 +1,4 @@
-## Hey 👋, ich bin Ahmad!
+## Hey👋, ich bin Ahmad!
 <a href='https://www.linkedin.com/in/DEIN-LINK/'><img align='left' alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="18"/></a>
 <a href='https://github.com/Ahmad-Yakti-Baslhlo/'><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" height="18"/></a>
 <br/>
@@ -22,7 +22,7 @@
 - 🔭 Arbeite aktuell an einem **Shopware-Plugin** (Produktdaten-Erweiterung)  
 - 🤝 Suche Austausch & Beiträge zu **Symfony Bundles / Shopware Plugins**  
 - 🌱 Lerne gerade **Docker** & **Symfony Messenger (Queues/Jobs)**  
-- 👨🏻‍💻 Meine Projekte findest du auf [GitHub](https://github.com/DEIN-USERNAME?tab=repositories)  
+- 👨🏻‍💻 Meine Projekte findest du auf [GitHub] Ahmad-yakti-baslhlo
 - 💬 Frag mich zu **PHP 8, Symfony, Doctrine, MySQL, Twig, REST-APIs**  
 - 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/DEIN-LINK/) · `ybaslihlo@gmail.com`  
 - 🧩 **Umschulung Fachinformatiker Anwendungsentwicklung** @ GFN GmbH (05/2023 – 07/2025)  
@@ -54,6 +54,12 @@
 
 ---
 
+### 📊 GitHub Stats
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Ahmad-Yakti-Baslhlo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Yakti-Baslhlo&layout=compact&theme=tokyonight)
+
+---
+
 ### 🛠️ Meine Projekte
 - 🚧 Hier kommen später meine Projekte (Symfony, Shopware, PHP, u.a.)  
 - 📌 Du kannst eigene Badges, Logos oder Links hinzufügen.
@@ -61,5 +67,5 @@
 
 ### ♟️ Fun & Hobbies
 - ♟️ **Schach**: Strategie, Geduld & Kreativität – wie im Code.  
--     Mein Motto: *„Think like a chess player – plan ahead, aber flexibel bleiben.“*
+- Mein Motto: *„Think like a chess player – plan ahead, aber flexibel bleiben.“*
 - ☕ Kaffee + Code = Perfekter Tag.  
