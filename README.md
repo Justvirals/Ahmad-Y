@@ -1,5 +1,4 @@
 ## Hey👋, ich bin Ahmad!
-<a href='https://www.linkedin.com/in/DEIN-LINK/'><img align='left' alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="18"/></a>
 <a href='https://github.com/Ahmad-Yakti-Baslhlo/'><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" height="18"/></a>
 <br/>
 
